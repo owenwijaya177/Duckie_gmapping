@@ -1,1 +1,2 @@
 # LIST YOUR APT PACKAGES HERE
+sudo apt-get install ros-melodic-gmapping
